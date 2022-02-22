@@ -5,7 +5,7 @@ pygame zeroを用いて, maze, landing game, shooting gameを作成しました.
 - landing game(exact_landing.py)
 - shooting game(shooting.py)
 
-グラフィック等、改善点
+### グラフィック等、改善点
 - mazeのスタートとゴールの動き
-- landingの失敗or成功の表示
+- landingの失敗or成功の表示, 文字のズレ
 - shootingの体力ゲージバグ
